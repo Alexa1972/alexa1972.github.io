@@ -24,7 +24,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "./?utm_source=web_app_manifest",
+    "start_url": "https://alexa1972.github.io",
     "display": "fullscreen",
     "orientation": "portrait",
     "theme_color": "#29BDBB",
